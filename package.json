@@ -9,11 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.5.0",
+    "@heroicons/react": "^1.0.5",
+    "@mantine/core": "^3.6.11",
+    "@mantine/dates": "^3.6.11",
+    "@mantine/hooks": "^3.6.14",
+    "@mantine/next": "^3.6.11",
+    "@square/web-sdk": "^2.0.0",
     "next": "12.1.0",
+    "next-transpile-modules": "^9.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-square-web-payments-sdk": "^2.2.3",
+    "square": "^17.2.0",
+    "tabler-icons-react": "^1.39.0"
   },
   "devDependencies": {
+    "@ngneat/falso": "^2.27.0",
     "eslint": "8.9.0",
     "eslint-config-next": "12.1.0"
   }
